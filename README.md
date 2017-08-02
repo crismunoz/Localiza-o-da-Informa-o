@@ -13,7 +13,7 @@ Neste repositorio pode-se encontrar as seguintes aplicações:
 * Capitulo 7: Deep Learning (CNN - Parte 2)
 * Capitulo 8: Deep Learning (RNN)
 * Capitulo 9: Deep Learning (Generative Models)
-* Capitulo 10: Deep Learning (Big Data)
+* Capitulo 10: Big Data
 
 Os laboratorios foram realizados utilizando Python 3.X.
 
