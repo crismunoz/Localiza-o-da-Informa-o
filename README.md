@@ -7,7 +7,7 @@ Neste repositorio pode-se encontrar as seguintes aplicações:
 * Capítulo 1: Introdução a Python
 * Capítulo 2: Mineração na Web (Twitter)
 * Capítulo 3: Mineração na Web (Facebook)
-* Capítulo 4: Introduço ao Scraping 
+* Capítulo 4: Introduço a Scraping 
 * Capítulo 5: Machine Learning (Classificação)
 * Capítulo 6: Deep Learning (CNN - Parte 1)
 * Capítulo 7: Deep Learning (CNN - Parte 2)
